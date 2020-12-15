@@ -20,7 +20,7 @@ const TaskInput = () => {
                 type="text"
                 value={editTitle}
                 onChange={handleTitleChange}
-                placeholder="Input New Task"
+                placeholder="Input Your Task..."
             />
             <button>NEW</button>
         </form>
